@@ -58,6 +58,7 @@ E.g:  EmployeeTable_split_2020_05_07T10_03_13_00.csv,
       EmployeeTable_split_2020_05_07T10_03_13_01.csv
 
 2.	Split by size: 
+
     Input: 
       
         bash split.sh -file=EmployeeTable.csv -size=10KB –without-header
